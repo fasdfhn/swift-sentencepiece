@@ -7,7 +7,7 @@ let package = Package(
     name: "swift-sentencepiece",
     platforms: [
         .macOS(.v13),
-        .iOS(.v16),
+        .iOS(.v15),
         .tvOS(.v16),
         .watchOS(.v9),
         .visionOS(.v1),
